@@ -183,8 +183,8 @@
 
 ---
 
-* 📖 **کتاب‌های خوانده‌شده و امتیازها:** [مشاهده لیست کتاب‌ها در Goodreads](goodreads.com/farhangfiroozi)
-* 🍿 **فیلم‌ها و سریال‌های تماشا‌شده و نمرات:** [مشاهده پروفایل و لیست نمرات در IMDb](imdb.com/user/p.frdqo6sosbivwli2onnitcgdsi/ratings)
+* 📖 **کتاب‌های خوانده‌شده و امتیازها:** [مشاهده لیست کتاب‌ها در Goodreads](https://www.goodreads.com/user/show/175065479-farhang)
+* 🍿 **فیلم‌ها و سریال‌های تماشا‌شده و نمرات:** [مشاهده پروفایل و لیست نمرات در IMDb](https://www.imdb.com/user/p.frdqo6sosbivwli2onnitcgdsi/ratings)
 
 ---
 
