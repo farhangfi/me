@@ -186,6 +186,7 @@
 * 🍿 **فیلم‌ها و سریال‌های تماشا‌شده و نمرات:** [مشاهده پروفایل و لیست نمرات در IMDb](https://www.imdb.com/user/p.frdqo6sosbivwli2onnitcgdsi/ratings)
 
 </div>
+
 ---
 
 
