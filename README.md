@@ -1,4 +1,5 @@
 <div dir="rtl" style="text-align: right; font-family: Tahoma, Arial, sans-serif;">
+..
 
 # سلام، من فرهنگ هستم! 👋
 
