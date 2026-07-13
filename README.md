@@ -1,14 +1,6 @@
-<style>
-  body {
-    direction: rtl;
-    text-align: right;
-  }
-  
-  ul, ol {
-    padding-right: 40px;
-    padding-left: 0;
-  }
-</style> 
+---
+layout: default
+---
 
 # سلام، من فرهنگ هستم! 👋
 
@@ -18,16 +10,11 @@
 📫 **راه‌های ارتباطی:**
 
 
-<div dir="rtl">
-
 * **Main email:** f14.firoozi@gmail.com
 * **Academic mail** farhang.f@sharif.edu
 * **Linkedin:** farhang-firoozi-6781757
 * **Telegram:** @FARh4n9
 * **Twitter:** @FarhangFir97907
-
-</div>
-
 
 
 🚀 **پروژه‌های در حال ساخت (ابزارهای روزمره):**
@@ -92,22 +79,14 @@
 
 
 
-### 📄 مقالات همایشی
-
-<div style="display: block; direction: rtl; text-align: right;">
-  
+### 📄 مقالات همایشی  
 * **مقایسه کارهایی انجام شده برای برچسب گذاری ادات سخن زبان فارسی**
   * **همایش:** سومین همایش ملی زبانشناسی رایانشی دانشگاه صنعتی شریف
   * **سال ارائه:** ۱۳۹۳
 
-</div>
-<div style="display: block; direction: rtl; text-align: right;">
-
 * **بررسی روش‌های بازسازی ساختاری به منظور بهبود ترجمه ماشینی**
   * **همایش:** همایش پژوهش‌های کاربردی در علوم کامپیوتری و فناوری اطلاعات
   * **سال ارائه:** ۱۳۹۳
-
-</div>
 
 ---
 
