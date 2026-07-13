@@ -17,6 +17,7 @@
 
 📫 **راه‌های ارتباطی:**
 
+<div dir="rtl">
 
 * **Main email:** f14.firoozi@gmail.com
 * **Academic mail** farhang.f@sharif.edu
@@ -24,6 +25,7 @@
 * **Telegram:** @FARh4n9
 * **Twitter:** @FarhangFir97907
 
+</div>
 
 🚀 **پروژه‌های در حال ساخت (ابزارهای روزمره):**
 
