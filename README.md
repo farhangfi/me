@@ -1,4 +1,4 @@
-<div dir="rtl" style="text-align: right;" markdown="1">
+<span style="display: block; direction: rtl; text-align: right;" markdown="1">
  
  # سلام، من فرهنگ هستم! 👋
 
@@ -194,4 +194,4 @@
 
 ⭐️ *«هر روز یک قدم کوچک، در نهایت به یک شاهکار تبدیل می‌شود.»*
 
-</div>
+</span>
