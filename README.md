@@ -20,7 +20,6 @@
 
 <div dir="rtl">
 
-
 * **Main email:** f14.firoozi@gmail.com
 * **Academic mail** farhang.f@sharif.edu
 * **Linkedin:** farhang-firoozi-6781757
@@ -95,17 +94,14 @@
 
 ### 📄 مقالات همایشی
 
-<div dir="rtl">
-
+<div style="display: block; direction: rtl; text-align: right;">
   
 * **مقایسه کارهایی انجام شده برای برچسب گذاری ادات سخن زبان فارسی**
   * **همایش:** سومین همایش ملی زبانشناسی رایانشی دانشگاه صنعتی شریف
   * **سال ارائه:** ۱۳۹۳
 
-
 </div>
-<div dir="rtl">
-
+<div style="display: block; direction: rtl; text-align: right;">
 
 * **بررسی روش‌های بازسازی ساختاری به منظور بهبود ترجمه ماشینی**
   * **همایش:** همایش پژوهش‌های کاربردی در علوم کامپیوتری و فناوری اطلاعات
